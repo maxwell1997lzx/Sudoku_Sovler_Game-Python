@@ -1,4 +1,4 @@
-# Sudoku Sovler Game in Python
+# Sudoku Solver Game in Python
 
 This is my personal version of Sudoku solving game using python, it also come with Backtracking algorithm.
 
