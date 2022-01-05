@@ -12,7 +12,7 @@ Sodoku is logic-based, combinatorial number-placement puzzle game. The objective
 ![20220105001553](https://user-images.githubusercontent.com/47311671/148164205-19d11b6c-7b78-4252-9a99-3dcd398e0c01.png) The solution to the puzzle above
 
 
-I'm building this Sudoku solving game with Blacktracking alorithm. Backtracking is simply reverting back to the previous step or solution as soon as I determine that my current solution cannot be continued into a complete one. I will use this principle of backtracking to implement the following algorithm:<br>
+I'm building this Sudoku solving game with Blacktracking algorithm. Backtracking is simply reverting back to the previous step or solution as soon as I determine that my current solution cannot be continued into a complete one. I will use this principle of backtracking to implement the following algorithm:<br>
 <ul>
   <li>Find some empty spaces. </li>
   <li>Attempt to place the digits 1-9 in that space.</li>
