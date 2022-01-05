@@ -27,6 +27,6 @@ We are building this Sudoku solving game with Blacktracking alorithm. Backtracki
   <li>Python 3.x</li>
   <li>Pygame > 1.4</li>
 </ul>
-To <b>play</b>, run pacman_game.py and use directional arrows to move.
+To <b>play</b>, run GUI.py and use numberpad to type the number then press Enter.
 <br>
 Developed in collaboration with <a href="https://github.com/maxwell1997lzx">maxwell1997lzx</a>
