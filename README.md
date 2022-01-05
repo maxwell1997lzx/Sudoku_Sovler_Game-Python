@@ -17,8 +17,8 @@ We are building this Sudoku solving game with Blacktracking alorithm. Backtracki
   <li>Find some empty spaces. </li>
   <li>Attempt to place the digits 1-9 in that space.</li>
   <li>Check if that digit is valid in the current spot based on the current board.</li>
-  <li>a. If the digit is valid, recursively attempt to fill the board using steps 1-3.
-      b. If it is not valid, reset the square you just filled and go back to the previous step.</li>
+  <li>A. If the digit is valid, recursively attempt to fill the board using steps 1-3.
+      B. If it is not valid, reset the square you just filled and go back to the previous step.</li>
   <li>Once the board is full by the definition of this algorithm we have found a solution.</li>
 </ul>
 
